@@ -1,4 +1,3 @@
-<!-- ═══════════════ BANNIÈRE ANIMÉE (vagues en haut) ═══════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Olympe%20ATCHATIN&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=L2%20GLSI%20%40%20ESP%20Dakar%20%E2%80%A2%20Dev%20%26%20ML%20enthusiast&descAlignY=58&descSize=18" />
 
 <!-- ═══════════════ TYPING EFFECT ═══════════════ -->
@@ -27,7 +26,7 @@ class Olympe:
         self.origin      = "Porto-Novo, Bénin 🇧🇯"
         self.location    = "Dakar, Sénégal 🇸🇳"
         self.role        = "Étudiant L2 GLSI @ ESP - UCAD"
-        self.focus       = ["Machine Learning", "Dev Web", "Bases de données"]
+        self.focus       = ["Machine Learning", "Dev Web", "Bases de données", "IA"]
         self.currently   = "Je transforme du café en code (et parfois en modèles ML)"
         self.fun_fact    = "Je grimpe mon Elo sur Chess.com un coup à la fois ♟️"
 
@@ -35,10 +34,6 @@ class Olympe:
         return "Construire des solutions tech pensées pour l'Afrique 🌍"
 ```
 
-- 🔭 En ce moment je bosse sur des **systèmes de gestion** et du **ML appliqué**
-- 🌱 J'apprends toujours : deep learning, architectures logicielles, cloud
-- 💬 Parle-moi de **chess, d'IA, de bases de données ou de finance**
-- ⚡ Fun fact : je code souvent en FR *et* en EN dans le même fichier 😅
 
 ---
 
@@ -73,26 +68,25 @@ class Olympe:
 
 ## 🚀 Projets phares
 
-<!--
-  ⚠️  Chaque carte "pin" a besoin du VRAI nom du repo (paramètre repo=...).
-      Remplace SenSante / StockGuard / etc. par tes noms exacts de repos,
-      et mets à jour les liens href.
--->
 
 <div align="center">
 
-<a href="https://github.com/Olympe976/SenSante">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=SenSante&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
+<a href="https://github.com/Olympe976/sensante">
+  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=sensante&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
-<a href="https://github.com/Olympe976/StockGuard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=StockGuard&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
+<a href="https://github.com/Olympe976/sentransport">
+  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=sentransport&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
 
-<a href="https://github.com/Olympe976/SunuAvenir">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=SunuAvenir-frontend&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
+<a href="https://github.com/Olympe976/StockGuard">
+  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=StockGuard&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
-<a href="https://github.com/Olympe976/GestionnaireDeNotes">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=GestionnaireDeNotes&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
+
+<a href="https://github.com/Olympe976/Gestionnaire-Bibliotheque">
+  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=Gestionnaire-Bibliotheque-frontend&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
+</a>
+<a href="https://github.com/Olympe976/Gestionnaire_notes">
+  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=Gestionnaire_notes&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
 
 </div>
@@ -121,8 +115,8 @@ class Olympe:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olympe976&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olympe976&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF"/>
+<img height="180em" src="https://amo-github-readme-stats.vercel.app/api?username=Olympe976&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF"/>
+<img height="180em" src="https://amo-github-readme-stats.vercel.app/api/top-langs/?username=Olympe976&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF"/>
 
 </div>
 
@@ -170,9 +164,9 @@ class Olympe:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-[![Hugging Face](https://img.shields.io/badge/🤗_HF-FFD21E?style=for-the-badge&logoColor=black)](https://huggingface.co/TON_HF)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_LINKEDIN) -->
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahunaolympe@gmail.com)
+
 
 </div>
 
