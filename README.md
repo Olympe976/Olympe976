@@ -78,12 +78,12 @@ class Olympe:
   <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=sentransport&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
 
-<a href="https://github.com/Olympe976/StockGuard">
-  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=StockGuard&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
+<a href="https://github.com/Olympe976/gestion_stocks">
+  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=gestion_stocks&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
 
 <a href="https://github.com/Olympe976/Gestionnaire-Bibliotheque">
-  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=Gestionnaire-Bibliotheque-frontend&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
+  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=Gestionnaire-Bibliotheque&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
 <a href="https://github.com/Olympe976/Gestionnaire_notes">
   <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=Gestionnaire_notes&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
