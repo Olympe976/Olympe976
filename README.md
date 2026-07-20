@@ -78,9 +78,6 @@ class Olympe:
   <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=sentransport&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
 </a>
 
-<a href="https://github.com/Olympe976/gestion_stocks">
-  <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=gestion_stocks&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
-</a>
 
 <a href="https://github.com/Olympe976/Gestionnaire-Bibliotheque">
   <img width="49%" src="https://amo-github-readme-stats.vercel.app/api/pin/?username=Olympe976&repo=Gestionnaire-Bibliotheque&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=6C63FF" />
@@ -92,16 +89,6 @@ class Olympe:
 </div>
 
 <br/>
-
-<!-- Récap rapide pour ceux qui préfèrent lire que cliquer -->
-| Projet | Ce que c'est | Stack |
-|:------:|:-------------|:------|
-| 🩺 **SenSanté** | Outil de diagnostic médical avec un modèle RandomForest, déployé sur Hugging Face Spaces via Docker | `FastAPI` `scikit-learn` `Docker` |
-| 📦 **StockGuard** | Système de gestion d'entrepôt : suivi des stocks, commandes et mouvements | `PHP/PDO` `MySQL` |
-| 🌱 **SunuAvenir** | Plateforme entrepreneuriat pensée pour le contexte sénégalais | `React.js` `Supabase` `Vercel` |
-| 📝 **Gestionnaire de Notes** | App Android de gestion des notes étudiantes (architecture propre) | `Java` `Room` `LiveData` |
-| 🎬 **CinéTick** | Plateforme de réservation de tickets de cinéma | `PHP` `MySQL` `UML` |
-| 🏫 **SIS** | Digitalisation d'un système d'information scolaire (modélisation) | `UML` `Merise` `SQL` |
 
 <div align="center">
   
