@@ -3,7 +3,7 @@
 <!-- ═══════════════ TYPING EFFECT ═══════════════ -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Olympe+%F0%9F%91%8B;De+Porto-Novo+%F0%9F%87%A7%F0%9F%87%AF+%C3%A0+Dakar+%F0%9F%87%B8%F0%9F%87%B3;Je+build+des+trucs+en+Python%2C+Java+%26+PHP;Machine+Learning+by+day%2C+Chess+by+night+%E2%99%9E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Salut%2C+moi+c'est+Olympe+%F0%9F%91%8B;Je+build+des+trucs+en+Python%2C+Java+%26+PHP;Machine+Learning+by+day%2C+Chess+by+night+%E2%99%9E)](https://git.io/typing-svg)
 
 </div>
 
