@@ -23,8 +23,6 @@
 class Olympe:
     def __init__(self):
         self.name        = "Mahuna Olympe ATCHATIN"
-        self.origin      = "Porto-Novo, Bénin 🇧🇯"
-        self.location    = "Dakar, Sénégal 🇸🇳"
         self.role        = "Étudiant L2 GLSI @ ESP - UCAD"
         self.focus       = ["Machine Learning", "Dev Web", "Bases de données", "IA"]
         self.currently   = "Je transforme du café en code (et parfois en modèles ML)"
